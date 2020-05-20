@@ -1,0 +1,33 @@
+Self Reviews:
+.Contributed towards automating the testing process on production by preparing shell scripts
+.Sucessfully completed the migration of more than 120 on-premise jobs of Capital One to AWS Cloud
+.Strengthened skills in Python for Data Science using libraries such as Pandas, Flask, OS,SYS,argparser,smtplib,requests,subprocess
+.Overcame challenges involvolved in decommisioning activities by working on weekends
+.Have worked on many topgear projects of python and have successfully submitted many topgear projects
+.Helped Wipro achieve a milestone on Retail Migration Project by putting up extra efforts and staying up late to resolve situations as quickly as possible.
+
+.Automated manual work using Python script and got opportunities to work on design activity. 
+.I have added my automation to uDeploy and Jenkins to automate the complete process.
+.I worked with uDeploy rest API ,Jenkins API, Git API to automate uDeploy components version adding using Jenkins.
+.Experienced inBuild and Release Engineer in automating, building, deploying, and releasing of code in different environments.
+.Upskilled myself within a time period of 2-3 months to contribute towards devepos environment.
+
+Improvement Areas:
+.Need to improve the skillset on devepos environment,maven ,gardle etc.
+
+Future Focus Areas:
+.In the upcoming quarter my goal is to become AWS certified developer associate.
+Moreover, I will try to put my knowledge and skill-set for automation of tasks in wellsfargo account.
+
+
+Awards and Recognition:
+.Received AUTOMATION CHAMPION AWARD and Client appreciations for exceptional work from capitalone clients
+.Received round of Applause from client for exceptional performance in Capital One
+.Received Victory League[Going Beyond Deliverables] for automating the processes involved in migration
+
+Trainings:
+.Completed AWS ML training in wipro.
+.Engagement in Python Academy - Wipro to build relevant solutions for customers
+.Completed Python flask in Udemy to enhance basic understanding over the concepts and have made a basic website using flask
+.Engagement in devepos trainings in Udemy
+.Enrolled in Ultimate AWS Certified Developer Associate course in Udemy
